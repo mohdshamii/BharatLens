@@ -742,7 +742,7 @@ SHAP attributions in BharatLens ML use associative terminology (*"contributed +1
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/bharatlens-ml.git
+git clone https://github.com/mohdshamii/BharatLens.git
 cd bharatlens-ml
 
 # 2. Create and activate a dedicated virtual environment
@@ -1073,8 +1073,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete ter
 ---
 
 ## 31. Author & Contact Information
-
 - **Project Lead & Architect**: BharatLens ML Core Team
-- **Repository**: [https://github.com/your-username/bharatlens-ml](https://github.com/mohdshamii/BharatLens)
+- **Repository**: [mohdshamii/BharatLens](https://github.com/mohdshamii/BharatLens)
 - **Official Portal Inspiration**: [India.gov.in National Portal of India](https://www.india.gov.in/)
 - **License**: [MIT Open Source](LICENSE)
