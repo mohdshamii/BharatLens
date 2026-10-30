@@ -1073,8 +1073,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete ter
 ---
 
 ## 31. Author & Contact Information
-
 - **Project Lead & Architect**: BharatLens ML Core Team
-- **Repository**: [https://github.com/mohdshamii/BharatLens](https://github.com/mohdshamii/BharatLens)
+- **Repository**: [mohdshamii/BharatLens](https://github.com/mohdshamii/BharatLens)
 - **Official Portal Inspiration**: [India.gov.in National Portal of India](https://www.india.gov.in/)
 - **License**: [MIT Open Source](LICENSE)
